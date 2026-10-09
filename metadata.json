@@ -1,0 +1,6 @@
+{
+  "name": "Zyroxx",
+  "description": "Platform manajemen workspace, peralatan kerja pintar, dan manajemen pelanggan dengan antarmuka hitam-ungu interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
